@@ -19,14 +19,14 @@ T Testi
 Kruskal-Wallis Testi
 Mann-Whitney Testi
 Verilerin Analizi ve Değerlendirilmesi
-Projede kullanılan veriler, demografik faktörler ve beslenme alışkanlıkları ile ilgili önemli bilgiler sunmaktadır. Bu verilerin analizi SPSS ve benzeri istatistiksel yazılımlar ile yapılmıştır.
+Projede kullanılan veriler, demografik faktörler ve beslenme alışkanlıkları ile ilgili önemli bilgiler sunmaktadır. Bu verilerin analizi, SPSS yazılımı kullanılarak yapılmıştır.
 
 Kurulum ve Kullanım
-Bu proje, Python ve Jupyter Notebook gibi araçlarla desteklenmiş bir veri analizi süreci içerir. Projeyi kullanmaya başlamak için aşağıdaki adımları izleyebilirsiniz:
+Bu proje, SPSS kullanılarak gerçekleştirilmiş bir analiz sürecini içermektedir. Projeyi çalıştırmak için şu adımları izleyebilirsiniz:
 
-Python ve Jupyter Notebook'un kurulu olduğundan emin olun.
-Proje dosyalarını indirin.
-Jupyter Notebook üzerinde ilgili dosyaları açarak analize başlayın.
+SPSS programının kurulu olduğundan emin olun.
+Proje dosyalarını indirip açın.
+SPSS yazılımında yer alan dosya üzerinden analizlere göz atın.
 Katkıda Bulunma
 Bu projeye katkıda bulunmak için:
 
@@ -34,4 +34,3 @@ Projeyi forkladıktan sonra, kendi özelliklerinizi geliştirebilirsiniz.
 İlgili dosyalarda değişiklik yaparak Pull Request gönderin.
 Lisans
 Bu proje, MIT Lisansı altında lisanslanmıştır.
-
